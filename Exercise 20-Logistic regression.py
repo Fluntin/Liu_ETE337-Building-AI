@@ -12,5 +12,6 @@ def sigmoid(c1):
     print(test)
 
 # calculate the output of the sigmoid for x with all three coefficients
+# this is an extra line of code
 
 sigmoid(c3)
